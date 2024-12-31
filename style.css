@@ -1,0 +1,68 @@
+.nav-img{
+    width: 150px;
+}
+.search{
+    margin-top: 60px;
+}
+.s-box{
+    width: 30%;
+    height: 30px;
+    border: none;
+    box-shadow: 4px 4px 8px gray;
+    border-radius: 10px;
+    padding: 5px 15px;
+}
+.search-btn{
+    border: none;
+    padding: 6px 25px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 14px;
+    background-color: rgb(14, 94, 112);
+    color: white;
+}
+.search-btn:hover{
+    cursor: pointer;
+    background-color: blue;
+}
+.choosen-container{
+    box-shadow: 4px 4px 8px gray;
+    text-align: center;
+    margin-right: 40px;
+}
+.food-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin: auto;
+    text-align: center;
+    border: 1px solid black;
+    padding-bottom: 25px;
+}
+.food-img{
+    width: 150px;
+}
+.content{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.element{
+    border: 1px light black;
+    width: 400px;
+    padding: 30px;
+    box-shadow: 10px 15px 20px gray;
+}
+.youtube{
+    color: red;
+    font-weight: bold;
+    font-size: 30px;
+}
+.food-modal-img{
+    width: 250px;
+}
+.details-modal{
+    text-align: center;
+}
